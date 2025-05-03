@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(19, 72, 19);
+}
+.boxes{
+    width: 896px;
+    height: 259px;
+    background-color: #1FE8B7;
+    border: 20px solid black;
+    text-align: center;
+    
+}
+.container{
+    margin: 0 auto;
+    width: 936px;
+    height: 598px;
+    border: 10px solid red;
+    
+}
+div h1{
+    color: white;
+    text-align: center;
+}
